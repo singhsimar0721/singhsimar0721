@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @singhsimar0721
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 singhsimar0721/singhsimar0721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,3 +8,7 @@ highly available and scalable applications throughout the Java stack.
 Worked in multiple domains of development like Telecommunications, Automobile, Pharmaceuticles, E-Commerce.
 
 Currently, learning DevOps. Looking to work on DevOps operations.
+
+You can reach me on:
+Mobile: (+971)505096549
+Email: singhsimar0721@gmail.com
