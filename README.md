@@ -7,7 +7,7 @@ Hi, I am Simarpreet Singh, a Java Professional with more than 8 years of experie
 highly available and scalable applications throughout the Java stack.
 Worked in multiple domains of development like Telecommunications, Automobile, Pharmaceuticles, E-Commerce.
 
-Currently, learning DevOps. Looking to work on DevOps operations.
+Currently, learning DevOps. Looking forward to work on DevOps operations.
 
 You can reach me on:
 Mobile: (+971)505096549
